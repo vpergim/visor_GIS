@@ -1,0 +1,27 @@
+{
+  "campo": "V3_H",
+  "variable": "Esperanza vida [2015-2019]",
+  "sexo": "Hombres",
+  "min": 75.8601,
+  "max": 84.057,
+  "imagenes": [
+    {
+      "archivo": "vista_nacional_peninsula.png",
+      "bounds": {
+        "oeste": -9.2994,
+        "sur": 35.2656,
+        "este": 4.3279,
+        "norte": 43.79
+      }
+    },
+    {
+      "archivo": "vista_nacional_canarias.png",
+      "bounds": {
+        "oeste": -18.1609,
+        "sur": 27.6377,
+        "este": -13.4195,
+        "norte": 29.2909
+      }
+    }
+  ]
+}

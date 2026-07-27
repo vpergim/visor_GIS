@@ -1,0 +1,5 @@
+Ejecute desde R, en la raíz del proyecto:
+
+source("instalar_maplibre.R")
+
+Se crearán aquí maplibre-gl.js y maplibre-gl.css.

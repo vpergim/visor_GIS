@@ -1,0 +1,258 @@
+{
+  "08019": [
+    {
+      "codigo": "01",
+      "nombre": "Ciutat Vella",
+      "etiqueta": "01 - Ciutat Vella"
+    },
+    {
+      "codigo": "02",
+      "nombre": "Eixample",
+      "etiqueta": "02 - Eixample"
+    },
+    {
+      "codigo": "03",
+      "nombre": "Sants-Montjuïc",
+      "etiqueta": "03 - Sants-Montjuïc"
+    },
+    {
+      "codigo": "04",
+      "nombre": "Les Corts",
+      "etiqueta": "04 - Les Corts"
+    },
+    {
+      "codigo": "05",
+      "nombre": "Sarrià-Sant Gervasi",
+      "etiqueta": "05 - Sarrià-Sant Gervasi"
+    },
+    {
+      "codigo": "06",
+      "nombre": "Gràcia",
+      "etiqueta": "06 - Gràcia"
+    },
+    {
+      "codigo": "07",
+      "nombre": "Horta-Guinardó",
+      "etiqueta": "07 - Horta-Guinardó"
+    },
+    {
+      "codigo": "08",
+      "nombre": "Nou Barris",
+      "etiqueta": "08 - Nou Barris"
+    },
+    {
+      "codigo": "09",
+      "nombre": "Sant Andreu",
+      "etiqueta": "09 - Sant Andreu"
+    },
+    {
+      "codigo": "10",
+      "nombre": "Sant Martí",
+      "etiqueta": "10 - Sant Martí"
+    }
+  ],
+  "28079": [
+    {
+      "codigo": "01",
+      "nombre": "Centro",
+      "etiqueta": "01 - Centro"
+    },
+    {
+      "codigo": "02",
+      "nombre": "Arganzuela",
+      "etiqueta": "02 - Arganzuela"
+    },
+    {
+      "codigo": "03",
+      "nombre": "Retiro",
+      "etiqueta": "03 - Retiro"
+    },
+    {
+      "codigo": "04",
+      "nombre": "Salamanca",
+      "etiqueta": "04 - Salamanca"
+    },
+    {
+      "codigo": "05",
+      "nombre": "Chamartín",
+      "etiqueta": "05 - Chamartín"
+    },
+    {
+      "codigo": "06",
+      "nombre": "Tetuán",
+      "etiqueta": "06 - Tetuán"
+    },
+    {
+      "codigo": "07",
+      "nombre": "Chamberí",
+      "etiqueta": "07 - Chamberí"
+    },
+    {
+      "codigo": "08",
+      "nombre": "Fuencarral-El Pardo",
+      "etiqueta": "08 - Fuencarral-El Pardo"
+    },
+    {
+      "codigo": "09",
+      "nombre": "Moncloa-Aravaca",
+      "etiqueta": "09 - Moncloa-Aravaca"
+    },
+    {
+      "codigo": "10",
+      "nombre": "Latina",
+      "etiqueta": "10 - Latina"
+    },
+    {
+      "codigo": "11",
+      "nombre": "Carabanchel",
+      "etiqueta": "11 - Carabanchel"
+    },
+    {
+      "codigo": "12",
+      "nombre": "Usera",
+      "etiqueta": "12 - Usera"
+    },
+    {
+      "codigo": "13",
+      "nombre": "Puente de Vallecas",
+      "etiqueta": "13 - Puente de Vallecas"
+    },
+    {
+      "codigo": "14",
+      "nombre": "Moratalaz",
+      "etiqueta": "14 - Moratalaz"
+    },
+    {
+      "codigo": "15",
+      "nombre": "Ciudad Lineal",
+      "etiqueta": "15 - Ciudad Lineal"
+    },
+    {
+      "codigo": "16",
+      "nombre": "Hortaleza",
+      "etiqueta": "16 - Hortaleza"
+    },
+    {
+      "codigo": "17",
+      "nombre": "Villaverde",
+      "etiqueta": "17 - Villaverde"
+    },
+    {
+      "codigo": "18",
+      "nombre": "Villa de Vallecas",
+      "etiqueta": "18 - Villa de Vallecas"
+    },
+    {
+      "codigo": "19",
+      "nombre": "Vicálvaro",
+      "etiqueta": "19 - Vicálvaro"
+    },
+    {
+      "codigo": "20",
+      "nombre": "San Blas-Canillejas",
+      "etiqueta": "20 - San Blas-Canillejas"
+    },
+    {
+      "codigo": "21",
+      "nombre": "Barajas",
+      "etiqueta": "21 - Barajas"
+    }
+  ],
+  "46250": [
+    {
+      "codigo": "01",
+      "nombre": "Ciutat Vella",
+      "etiqueta": "01 - Ciutat Vella"
+    },
+    {
+      "codigo": "02",
+      "nombre": "L'Eixample",
+      "etiqueta": "02 - L'Eixample"
+    },
+    {
+      "codigo": "03",
+      "nombre": "Extramurs",
+      "etiqueta": "03 - Extramurs"
+    },
+    {
+      "codigo": "04",
+      "nombre": "Campanar",
+      "etiqueta": "04 - Campanar"
+    },
+    {
+      "codigo": "05",
+      "nombre": "La Saïdia",
+      "etiqueta": "05 - La Saïdia"
+    },
+    {
+      "codigo": "06",
+      "nombre": "El Pla del Real",
+      "etiqueta": "06 - El Pla del Real"
+    },
+    {
+      "codigo": "07",
+      "nombre": "L'Olivereta",
+      "etiqueta": "07 - L'Olivereta"
+    },
+    {
+      "codigo": "08",
+      "nombre": "Patraix",
+      "etiqueta": "08 - Patraix"
+    },
+    {
+      "codigo": "09",
+      "nombre": "Jesús",
+      "etiqueta": "09 - Jesús"
+    },
+    {
+      "codigo": "10",
+      "nombre": "Quatre Carreres",
+      "etiqueta": "10 - Quatre Carreres"
+    },
+    {
+      "codigo": "11",
+      "nombre": "Poblats Marítims",
+      "etiqueta": "11 - Poblats Marítims"
+    },
+    {
+      "codigo": "12",
+      "nombre": "Camins al Grau",
+      "etiqueta": "12 - Camins al Grau"
+    },
+    {
+      "codigo": "13",
+      "nombre": "Algirós",
+      "etiqueta": "13 - Algirós"
+    },
+    {
+      "codigo": "14",
+      "nombre": "Benimaclet",
+      "etiqueta": "14 - Benimaclet"
+    },
+    {
+      "codigo": "15",
+      "nombre": "Rascanya",
+      "etiqueta": "15 - Rascanya"
+    },
+    {
+      "codigo": "16",
+      "nombre": "Benicalap",
+      "etiqueta": "16 - Benicalap"
+    },
+    {
+      "codigo": "17",
+      "nombre": "Pobles del Nord",
+      "etiqueta": "17 - Pobles del Nord"
+    },
+    {
+      "codigo": "18",
+      "nombre": "Pobles de l'Oest",
+      "etiqueta": "18 - Pobles de l'Oest"
+    },
+    {
+      "codigo": "19",
+      "nombre": "Pobles del Sud",
+      "etiqueta": "19 - Pobles del Sud"
+    }
+  ]
+}
