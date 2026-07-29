@@ -110,7 +110,6 @@ mapa.addControl(
 const tooltip = new maplibregl.Popup({
   closeButton: false,
   closeOnClick: false,
-  className: "hover-tooltip",
   offset: 8
 });
 
@@ -722,9 +721,7 @@ function registrarEventosMapa() {
     tooltip
       .setLngLat(evento.lngLat)
       .setHTML(
-        `Sección censal: ${
-          escaparHtml(feature.properties.SECCION)
-        }`
+        construirFicha(feature.properties)
       )
       .addTo(mapa);
   });

@@ -191,10 +191,13 @@ input[type="search"]:disabled {
 
 
 .maplibregl-popup {
-  max-width: 390px;
+  max-width: 390px !important;
+  width: 390px;
 }
 
 .maplibregl-popup-content {
+  width: 390px;
+  min-width: 390px;
   padding: 14px 16px;
   border-radius: 6px;
 }
@@ -202,22 +205,6 @@ input[type="search"]:disabled {
 .maplibregl-ctrl-attrib {
   font-size: 10px;
 }
-
-.hover-tooltip .maplibregl-popup-content {
-  min-width: auto;
-  padding: 5px 8px;
-  border-radius: 4px;
-  background: rgba(31, 41, 51, 0.92);
-  color: white;
-  box-shadow: none;
-  font-size: 0.82rem;
-  font-weight: 650;
-}
-
-.hover-tooltip .maplibregl-popup-tip {
-  display: none;
-}
-
 
 .legend {
   width: 310px;
